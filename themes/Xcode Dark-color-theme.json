@@ -104,7 +104,6 @@
         "titleBar.activeBackground": "#383a3d",
         "titleBar.activeForeground": "#b7b8bb",
         "titleBar.border": "#26282b",
-        "meta.type.annotation": "#D0A8FF"
     },
     "tokenColors": [
         {
