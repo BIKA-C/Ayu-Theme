@@ -5,6 +5,9 @@
     "author": {
         "name": "bikachen"
     },
+    "repository": {
+        "url": "https://github.com/BIKA-C/Xcode-Theme"
+    },
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.66.0"
